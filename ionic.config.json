@@ -1,6 +1,6 @@
 {
   "name": "devCamera",
-  "app_id": "",
+  "app_id": "6d23e56e",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
